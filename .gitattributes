@@ -1,0 +1,3 @@
+*.manifest -text
+*.application -text
+*.deploy -text
